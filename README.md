@@ -57,7 +57,7 @@ This is the screenshot of my first interaction with Uniswap. Here, I added liqui
 
 
 Here is another screenshot of my second interaction with Uniswap. I interacted with the swapExactTokensForTokensSupportingFeeOnTransferTokens function.
-<img src=""/>
+<img src="https://github.com/Signor1/mainnet-forking/blob/6aa275417898d0d1ec5dc369dce576f31a5faeea/screenshots/swapExactTokensForTokensSupportingFee.png"/>
 
 ## Help
 
