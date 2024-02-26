@@ -52,7 +52,12 @@ npx hardhat run scripts/interact-with-uniswap-router.js
 
 ## Screenshots
 
-Include screenshots of the interactions with the Uniswap router contract here.
+This is the screenshot of my first interaction with Uniswap. Here, I added liquidity
+<img src="https://github.com/Signor1/mainnet-forking/blob/3bde0c56ec9fee7fce805221802aa3e5ce7ba07d/screenshots/addLiquidity.png"/>
+
+
+Here is another screenshot of my second interaction with Uniswap. I interacted with the swapExactTokensForTokensSupportingFeeOnTransferTokens function.
+<img src=""/>
 
 ## Help
 
